@@ -1,0 +1,7 @@
+textbook/
+.venv/
+env/
+.vscode/
+week_3/openml/
+week_3/images/
+week_3/diabetes/
